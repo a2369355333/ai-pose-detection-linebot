@@ -52,19 +52,7 @@ pip install -r requirements.txt
 python line_bot.py
 ```
 
-2. The application will:
-   - Initialize the webcam
-   - Start detecting pose landmarks
-   - Monitor hand positions
-   - Send LINE notifications when gestures are detected
-   - Display real-time video feed with pose overlay
-
-3. Perform gestures:
-   - Raise your left hand above shoulder level
-   - Raise your right hand above shoulder level
-   - Raise both hands above shoulder level
-
-4. Press `q` to quit the application
+2. Press `q` to quit the application
 
 
 ### Adjust Detection Sensitivity
